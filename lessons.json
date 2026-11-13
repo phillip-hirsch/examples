@@ -110,10 +110,7 @@
     {
       "episode": "S02E02",
       "title": "Building an Agent",
-      "items": [
-        "retail-agent-exchanges",
-        "false-success-tool"
-      ]
+      "items": ["retail-agent-exchanges", "false-success-tool"]
     },
     {
       "episode": "S02E03",
@@ -143,6 +140,26 @@
         "step-replay",
         "too-easy-eval"
       ]
+    },
+    {
+      "episode": "S03E01",
+      "title": "Mechanics Behind Product Engineering",
+      "items": ["feature-retirement"]
+    },
+    {
+      "episode": "S03E02",
+      "title": "Translating Intent into Agent Work",
+      "items": ["decision-record-guard"]
+    },
+    {
+      "episode": "S03E03",
+      "title": "AI-Native Product Development",
+      "items": ["feature-map-vs-code-map"]
+    },
+    {
+      "episode": "S03E05",
+      "title": "Products That Learn After Release",
+      "items": ["matches-but-doesnt-fit"]
     }
   ]
 }
