@@ -8,8 +8,6 @@ challenges/
 transcriber/
 wake-notes/
 
-.claude/skills/read/*
-.claude/skills/transcribe/*
+.claude/skills/
+.claude/hooks/
 .claude/recheck.local.json
-.claude/hooks/recheck-sources.mjs
-.claude/skills/triage
